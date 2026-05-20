@@ -1,1 +1,3 @@
 rootProject.name = 'Gradle-Docker-Pipeline-TeamCity-Samples'
+
+include 'test1', 'test2'
