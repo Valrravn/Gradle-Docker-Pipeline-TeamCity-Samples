@@ -47,3 +47,4 @@ Opt for option #2 only if your project targets a forked sample and TeamCity has 
 ## Other Samples
 
 * [Simple Maven application](https://github.com/JetBrains/Maven-Configuration-TeamCity-Samples)
+   
